@@ -8,6 +8,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ## Prerequisites
 
 It is assumed that the UCI HAR dataset has been downloaded and extracted, while keeping the original folder structure unchanged.
+Script execution requires that the libraries dplyr and magrittr have been installed and can be loaded inside the script.
 
 ## Usage
 
